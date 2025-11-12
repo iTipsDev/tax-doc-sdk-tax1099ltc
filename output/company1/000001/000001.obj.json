@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "39-639-1939",
+  "taxFormId" : "0881600",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0498291",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Reichert, Kuhlman and Brown"
+    },
+    "address" : {
+      "line1" : "8755 Dee Creek",
+      "city" : "East Yuton",
+      "region" : "FL",
+      "postalCode" : "53954"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "letty.quitzon@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-10-8884",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Isreal",
+      "last" : "Hermann"
+    },
+    "address" : {
+      "line1" : "5837 Schaefer Underpass",
+      "city" : "Port Damienland",
+      "region" : "VT",
+      "postalCode" : "64040"
+    },
+    "email" : "catharine.hahn@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "511-21422-9",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insuredId" : "insuredId",
+  "insuredNameAddress" : {
+    "line1" : "5676 Emmerich Station",
+    "city" : "Bartolettibury",
+    "region" : "NE",
+    "postalCode" : "92245",
+    "name1" : "Stiedemann-Collier"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2025-03-28"
+}
