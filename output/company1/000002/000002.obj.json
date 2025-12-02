@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "91-164-7822",
+  "taxFormId" : "5250937",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0498291",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Reichert, Kuhlman and Brown"
+    },
+    "address" : {
+      "line1" : "8755 Dee Creek",
+      "city" : "East Yuton",
+      "region" : "FL",
+      "postalCode" : "53954"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "letty.quitzon@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-57-1007",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Johnathon",
+      "last" : "Tillman"
+    },
+    "address" : {
+      "line1" : "619 Doyle Rest",
+      "city" : "North Julianchester",
+      "region" : "AZ",
+      "postalCode" : "59776"
+    },
+    "email" : "brice.marquardt@hotmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "895-64796-0",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insuredId" : "insuredId",
+  "insuredNameAddress" : {
+    "line1" : "057 Feeney Gardens",
+    "city" : "East Refugiofurt",
+    "region" : "NJ",
+    "postalCode" : "33348",
+    "name1" : "Balistreri-Klocko"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2025-01-05"
+}

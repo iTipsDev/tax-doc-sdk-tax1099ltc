@@ -1,0 +1,57 @@
+{
+  "taxYear" : 2025,
+  "accountId" : "12-707-3999",
+  "taxFormId" : "1596319",
+  "taxFormDate" : "2025-12-31",
+  "issuer" : {
+    "tin" : "00-0498291",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Reichert, Kuhlman and Brown"
+    },
+    "address" : {
+      "line1" : "8755 Dee Creek",
+      "city" : "East Yuton",
+      "region" : "FL",
+      "postalCode" : "53954"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "letty.quitzon@gmail.com"
+  },
+  "recipient" : {
+    "tin" : "000-25-6964",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Maxie",
+      "last" : "Batz"
+    },
+    "address" : {
+      "line1" : "004 Calvin Summit",
+      "city" : "Romaguerafort",
+      "region" : "NM",
+      "postalCode" : "04938"
+    },
+    "email" : "miquel.schaefer@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "491-32221-4",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insuredId" : "insuredId",
+  "insuredNameAddress" : {
+    "line1" : "2093 Heller Park",
+    "city" : "Luettgenstad",
+    "region" : "LA",
+    "postalCode" : "43416",
+    "name1" : "Will-Pfannerstill"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2025-10-21"
+}
