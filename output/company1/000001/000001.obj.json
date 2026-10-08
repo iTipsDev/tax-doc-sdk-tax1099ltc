@@ -1,0 +1,93 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "19-257-9958",
+  "taxFormId" : "9367100",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0742146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jacobson-Pfeffer"
+    },
+    "address" : {
+      "line1" : "452 Mathilde Dale",
+      "city" : "East Maisiehaven",
+      "region" : "WA",
+      "postalCode" : "91350",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "antone.pouros@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-26-9345",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Orval",
+      "middle" : "Kristan",
+      "last" : "Abbott"
+    },
+    "businessName" : {
+      "name1" : "Miller, Fahey and Fisher"
+    },
+    "address" : {
+      "line1" : "237 Hagenes Spur",
+      "city" : "Shalondaborough",
+      "region" : "DE",
+      "postalCode" : "22103",
+      "unitType" : "Apt",
+      "unitNumber" : "799"
+    },
+    "email" : "martin.collier@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "466-19979-6",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Kathlene",
+      "middle" : "Maryjane",
+      "last" : "Treutel"
+    },
+    "businessName" : {
+      "name1" : "Christiansen LLC"
+    },
+    "address" : {
+      "line1" : "3960 Haley Orchard",
+      "city" : "Grantmouth",
+      "region" : "DE",
+      "postalCode" : "56728",
+      "unitType" : "Apt",
+      "unitNumber" : "513"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  },
+  "insuredId" : "000-64-0003",
+  "insuredNameAddress" : {
+    "line1" : "5411 Sergio Branch",
+    "city" : "Simonismouth",
+    "region" : "MD",
+    "postalCode" : "48221",
+    "unitType" : "Apt",
+    "unitNumber" : "531",
+    "name1" : "Prohaska, Batz and Kilback"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2026-02-17"
+}

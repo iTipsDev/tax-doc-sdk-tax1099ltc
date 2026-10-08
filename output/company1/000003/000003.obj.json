@@ -1,0 +1,93 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "31-062-0937",
+  "taxFormId" : "5948969",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0742146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jacobson-Pfeffer"
+    },
+    "address" : {
+      "line1" : "452 Mathilde Dale",
+      "city" : "East Maisiehaven",
+      "region" : "WA",
+      "postalCode" : "91350",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "antone.pouros@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-94-8460",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Pat",
+      "middle" : "Cammy",
+      "last" : "Purdy"
+    },
+    "businessName" : {
+      "name1" : "Schultz-Schuster"
+    },
+    "address" : {
+      "line1" : "4754 Berge Mission",
+      "city" : "Galestad",
+      "region" : "DE",
+      "postalCode" : "22898",
+      "unitType" : "Apt",
+      "unitNumber" : "095"
+    },
+    "email" : "pearlie.feil@yahoo.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "797-25666-4",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "August",
+      "middle" : "Ervin",
+      "last" : "Goldner"
+    },
+    "businessName" : {
+      "name1" : "Gerhold-Brekke"
+    },
+    "address" : {
+      "line1" : "7666 Mitchell Parkways",
+      "city" : "East Keshia",
+      "region" : "TN",
+      "postalCode" : "33156",
+      "unitType" : "Apt",
+      "unitNumber" : "730"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  },
+  "insuredId" : "000-26-8197",
+  "insuredNameAddress" : {
+    "line1" : "91516 Vanessa Causeway",
+    "city" : "Lake Lyndon",
+    "region" : "NE",
+    "postalCode" : "59388",
+    "unitType" : "Apt",
+    "unitNumber" : "821",
+    "name1" : "Kertzmann, Beatty and Dare"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2026-09-19"
+}

@@ -1,0 +1,93 @@
+{
+  "taxYear" : 2026,
+  "accountId" : "23-007-8770",
+  "taxFormId" : "2781620",
+  "taxFormDate" : "2026-12-31",
+  "issuer" : {
+    "tin" : "00-0742146",
+    "partyType" : "BUSINESS",
+    "businessName" : {
+      "name1" : "Jacobson-Pfeffer"
+    },
+    "address" : {
+      "line1" : "452 Mathilde Dale",
+      "city" : "East Maisiehaven",
+      "region" : "WA",
+      "postalCode" : "91350",
+      "unitType" : "Apt",
+      "unitNumber" : "530"
+    },
+    "phone" : {
+      "number" : "555-867-5309"
+    },
+    "email" : "antone.pouros@yahoo.com"
+  },
+  "recipient" : {
+    "tin" : "000-79-8540",
+    "partyType" : "INDIVIDUAL",
+    "individualName" : {
+      "first" : "Alvaro",
+      "middle" : "Fiona",
+      "last" : "Von"
+    },
+    "businessName" : {
+      "name1" : "Kessler-Kuhn"
+    },
+    "address" : {
+      "line1" : "153 Melida Burg",
+      "city" : "New Capriceland",
+      "region" : "CT",
+      "postalCode" : "42023",
+      "unitType" : "Apt",
+      "unitNumber" : "473"
+    },
+    "email" : "jillian.waters@gmail.com"
+  },
+  "attributes" : [ ],
+  "links" : [ ],
+  "accountNumber" : "916-28561-6",
+  "ltcBenefits" : 200,
+  "deathBenefits" : 300,
+  "perDiem" : true,
+  "reimbursedAmount" : true,
+  "insured" : {
+    "tin" : "000-12-3456",
+    "partyType" : "BUSINESS",
+    "individualName" : {
+      "first" : "Juan",
+      "middle" : "Nestor",
+      "last" : "Smitham"
+    },
+    "businessName" : {
+      "name1" : "Jacobi LLC"
+    },
+    "address" : {
+      "line1" : "89722 Les Land",
+      "city" : "New Gerard",
+      "region" : "WY",
+      "postalCode" : "87933",
+      "unitType" : "Apt",
+      "unitNumber" : "674"
+    },
+    "phone" : {
+      "country" : "country",
+      "number" : "number",
+      "extension" : "extension"
+    },
+    "email" : "email"
+  },
+  "insuredId" : "000-04-1745",
+  "insuredNameAddress" : {
+    "line1" : "023 Trent Branch",
+    "city" : "Hesselland",
+    "region" : "IL",
+    "postalCode" : "22539",
+    "unitType" : "Apt",
+    "unitNumber" : "192",
+    "name1" : "Wiegand-Hansen"
+  },
+  "qualifiedContract" : true,
+  "chronicallyIll" : true,
+  "terminallyIll" : true,
+  "dateCertified" : "2026-04-26"
+}
